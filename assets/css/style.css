@@ -20,3 +20,13 @@
  div#wrapper {
  	margin-top: 56px;
  }*/
+
+
+ div#about > h3 > p {
+ 	font-size: 5px;
+ 	text-align: justify;
+ }
+
+ div.card-body > p {
+ 	text-align: justify;
+ }
